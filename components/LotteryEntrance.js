@@ -105,6 +105,7 @@ export default function Header() {
                         </div>
                         <div>Number Of Players: {numPlayers}</div>
                         <div>Recent Winner: {recentWinner}</div>
+                        <div>WHATS UPPP </div>
                     </div>
                 ) : (
                     <div>No Raffle Address Detected</div>
